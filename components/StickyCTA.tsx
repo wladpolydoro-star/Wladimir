@@ -14,7 +14,7 @@ export const StickyCTA: React.FC = () => {
             <span className="text-lg md:text-xl font-black leading-none">QUERO MEU HÁBITO INQUEBRÁVEL</span>
           </div>
           <div className="flex items-center gap-3">
-            <span className="text-2xl font-black hidden sm:inline">R$ 6,90</span>
+            <span className="text-2xl font-black hidden sm:inline">R$ 9,90</span>
             <div className="bg-white/20 p-2 rounded-xl group-hover:bg-white/30 transition-colors">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M14 5l7 7m0 0l-7 7m7-7H3" />

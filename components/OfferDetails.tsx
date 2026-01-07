@@ -50,10 +50,10 @@ export const OfferDetails: React.FC = () => {
             <div className="absolute inset-0 bg-green-500/20 blur-[100px] rounded-full" />
             <div className="relative glass p-10 rounded-[40px] border-2 border-green-500/30 text-center shadow-2xl">
               <div className="mb-6">
-                <span className="text-gray-400 line-through text-xl">De R$ 97,00</span>
+                <span className="text-gray-400 line-through text-xl">De R$ 69,90</span>
                 <div className="flex items-center justify-center gap-2 mt-2">
                   <span className="text-gray-400 text-2xl font-bold">Por apenas</span>
-                  <span className="text-5xl md:text-6xl font-black text-white">R$ 6,90</span>
+                  <span className="text-5xl md:text-6xl font-black text-white">R$ 9,90</span>
                 </div>
               </div>
 
